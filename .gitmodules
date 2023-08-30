@@ -1,0 +1,3 @@
+[submodule "facial-landmarks-recognition"]
+	path = facial-landmarks-recognition
+	url = https://github.com/italojs/facial-landmarks-recognition
